@@ -1,4 +1,4 @@
-# 📌 Somali Football Match Prediction
+# 📌 Somali League Next Match Prediction
 
 ## 📖 Project Overview
 This project applies **Machine Learning** to predict the outcome of Somali football matches using historical data. The model is trained to classify matches as **Win, Loss, or Draw** based on the home and away teams.
@@ -38,7 +38,7 @@ The dataset consists of historical Somali football match results.
 ## 🚀 How to Run This Project
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/Qoslaye/Somali-Football-Match-Prediction.git
-cd Somali-Football-Match-Prediction
+git clone https://github.com/Qoslaye/Somali League Next Match Prediction
+cd Somali League Next Match Prediction
 
 
