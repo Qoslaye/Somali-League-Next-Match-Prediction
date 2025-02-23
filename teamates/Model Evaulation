@@ -6,3 +6,31 @@ Accuracy: The percentage of correct predictions.
 Confusion Matrix: A table showing true positives, true negatives, false positives, and false negatives.
 
 Classification Report: Includes precision, recall, and F1-score for each class (Win, Draw, Loss).
+
+
+How to Interpret the Results
+Accuracy:
+
+The percentage of correct predictions. For example, 1.00 means 100% accuracy.
+
+Confusion Matrix:
+
+A table showing true positives, true negatives, false positives, and false negatives.
+
+Example:
+
+
+[[25  5  3]
+ [ 7 30  8]
+ [ 2  6 20]]
+Classification Report:
+
+Includes precision, recall, and F1-score for each class (Win, Draw, Loss).
+
+Example:
+
+
+          precision    recall  f1-score   support
+      0       0.74      0.76      0.75        33
+      1       0.73      0.67      0.70        45
+      2       0.65      0.71      0.68        28
