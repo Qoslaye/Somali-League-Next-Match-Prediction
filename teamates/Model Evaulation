@@ -1,0 +1,8 @@
+What is Model Evaluation?
+Model evaluation is the process of assessing how well your trained models perform on unseen data (the test set). For classification tasks like yours, we use metrics such as:
+
+Accuracy: The percentage of correct predictions.
+
+Confusion Matrix: A table showing true positives, true negatives, false positives, and false negatives.
+
+Classification Report: Includes precision, recall, and F1-score for each class (Win, Draw, Loss).
