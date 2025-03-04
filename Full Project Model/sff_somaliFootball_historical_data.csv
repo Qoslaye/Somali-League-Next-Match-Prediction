@@ -1,0 +1,886 @@
+date,home,score,away
+04/06/2012 , Elman FC , 3 : 1 , Badbaado FC 
+05/06/2012 , Sahafi FC , 1 : 1 , Jeenyo  FC 
+07/06/2012 , Heegan S.C , 1 : 1 , Dekedda SC 
+08/06/2012 , Mogadishu City Club , 1 : 1 , Horseed S.C 
+11/06/2012 , Jeenyo  FC , 1 : 1 , Elman FC 
+12/06/2012 , Badbaado FC , 2 : 3 , Dekedda SC 
+14/06/2012 , Sahafi FC , 1 : 1 , Horseed S.C 
+15/06/2012 , Heegan S.C , 3 : 2 , Mogadishu City Club 
+18/06/2012 , Elman FC , 4 : 0 , Dekedda SC 
+19/06/2012 , Jeenyo  FC , 0 : 0 , Horseed S.C 
+21/06/2012 , Badbaado FC , 0 : 3 , Mogadishu City Club 
+22/06/2012 , Sahafi FC , 0 : 1 , Heegan S.C 
+25/06/2012 , Horseed S.C , 1 : 3 , Elman FC 
+26/06/2012 , Dekedda SC , 1 : 1 , Mogadishu City Club 
+28/06/2012 , Jeenyo  FC , 0 : 0 , Heegan S.C 
+29/06/2012 , Badbaado FC , 0 : 1 , Sahafi FC 
+02/07/2012 , Elman FC , 1 : 1 , Mogadishu City Club 
+03/07/2012 , Horseed S.C , 2 : 2 , Heegan S.C 
+04/07/2012 , Dekedda SC , 0 : 0 , Sahafi FC 
+05/07/2012 , Jeenyo  FC , 4 : 0 , Badbaado FC 
+06/07/2012 , Heegan S.C , 0 : 3 , Elman FC 
+09/07/2012 , Mogadishu City Club , 1 : 0 , Sahafi FC 
+10/07/2012 , Horseed S.C , 2 : 0 , Badbaado FC 
+11/07/2012 , Dekedda SC , 1 : 1 , Jeenyo  FC 
+12/07/2012 , Elman FC , 2 : 1 , Sahafi FC 
+13/07/2012 , Heegan S.C , 3 : 1 , Badbaado FC 
+16/07/2012 , Mogadishu City Club , 1 : 1 , Jeenyo  FC 
+17/07/2012 , Horseed S.C , 2 : 1 , Dekedda SC 
+27/09/2012 , Badbaado FC , 2 : 5 , Elman FC 
+28/09/2012 , Jeenyo  FC , 1 : 1 , Sahafi FC 
+29/09/2012 , Dekedda SC , 2 : 4 , Heegan S.C 
+30/09/2012 , Horseed S.C , 0 : 2 , Mogadishu City Club 
+02/10/2012 , Elman FC , 1 : 2 , Jeenyo  FC 
+03/10/2012 , Dekedda SC , 5 : 1 , Badbaado FC 
+04/10/2012 , Horseed S.C , 0 : 0 , Sahafi FC 
+05/10/2012 , Mogadishu City Club , 1 : 1 , Heegan S.C 
+08/10/2012 , Dekedda SC , 2 : 3 , Elman FC 
+09/10/2012 , Horseed S.C , 1 : 2 , Jeenyo  FC 
+10/10/2012 , Mogadishu City Club , 2 : 2 , Badbaado FC 
+11/10/2012 , Heegan S.C , 2 : 0 , Sahafi FC 
+12/10/2012 , Elman FC , 2 : 0 , Horseed S.C 
+15/10/2012 , Mogadishu City Club , 1 : 2 , Dekedda SC 
+16/10/2012 , Heegan S.C , 0 : 1 , Jeenyo  FC 
+17/10/2012 , Sahafi FC , 2 : 1 , Badbaado FC 
+18/10/2012 , Mogadishu City Club , 1 : 2 , Elman FC 
+19/10/2012 , Heegan S.C , 1 : 0 , Horseed S.C 
+22/10/2012 , Sahafi FC , 0 : 0 , Dekedda SC 
+23/10/2012 , Badbaado FC , 1 : 3 , Jeenyo  FC 
+24/10/2012 , Elman FC , 1 : 3 , Heegan S.C 
+25/10/2012 , Sahafi FC , 0 : 0 , Mogadishu City Club 
+26/10/2012 , Badbaado FC , 0 : 1 , Horseed S.C 
+27/10/2012 , Jeenyo  FC , 1 : 1 , Dekedda SC 
+28/10/2012 , Sahafi FC , 0 : 2 , Elman FC 
+29/10/2012 , Badbaado FC , 0 : 3 , Heegan S.C 
+30/10/2012 , Jeenyo  FC , 1 : 0 , Mogadishu City Club 
+31/10/2012 , Dekedda SC , 2 : 2 , Horseed S.C 
+19/04/2013 , Albeder , 0 : 0 , Ummah Hospital 
+22/04/2013 , Sahafi FC , 1 : 0 , Badbaado FC 
+24/04/2013 , SomaliFruit FC , 2 : 0 , Gantaalaha Afgooye FC 
+26/04/2013 , Madbacadda FC , 0 : 0 , 
+29/04/2013 , Badbaado FC , 1 : 1 , Albeder 
+01/05/2013 , Ummah Hospital , 2 : 1 , Gantaalaha Afgooye FC 
+03/05/2013 , Sahafi FC , 2 : 2 , 
+06/05/2013 , SomaliFruit FC , 2 : 3 , Madbacadda FC 
+08/05/2013 , Albeder , 3 : 2 , Gantaalaha Afgooye FC 
+10/05/2013 , Badbaado FC , 0 : 1 , 
+13/05/2013 , Ummah Hospital , 2 : 0 , Madbacadda FC 
+15/05/2013 , Sahafi FC , 3 : 1 , SomaliFruit FC 
+17/05/2013 , , 2 : 2 , Albeder 
+20/05/2013 , Gantaalaha Afgooye FC , 1 : 0 , Madbacadda FC 
+22/05/2013 , Badbaado FC , 0 : 5 , SomaliFruit FC 
+24/05/2013 , Ummah Hospital , 3 : 1 , Sahafi FC 
+27/05/2013 , Albeder , 0 : 1 , Madbacadda FC 
+29/05/2013 , , 0 : 0 , SomaliFruit FC 
+31/05/2013 , Gantaalaha Afgooye FC , 0 : 3 , Sahafi FC 
+03/06/2013 , Badbaado FC , 1 : 1 , Ummah Hospital 
+05/06/2013 , SomaliFruit FC , 1 : 1 , Albeder 
+07/06/2013 , Madbacadda FC , 1 : 1 , Sahafi FC 
+10/06/2013 , , 2 : 2 , Ummah Hospital 
+12/06/2013 , Gantaalaha Afgooye FC , 0 : 2 , Badbaado FC 
+14/06/2013 , Albeder , 0 : 3 , Sahafi FC 
+17/06/2013 , SomaliFruit FC , 1 : 1 , Ummah Hospital 
+19/06/2013 , Madbacadda FC , 1 : 2 , Badbaado FC 
+21/06/2013 , , 1 : 1 , Gantaalaha Afgooye FC 
+12/08/2013 , Ummah Hospital , 2 : 2 , Albeder 
+14/08/2013 , Badbaado FC , 0 : 2 , Sahafi FC 
+16/08/2013 , Gantaalaha Afgooye FC , 1 : 0 , SomaliFruit FC 
+19/08/2013 , , 2 : 1 , Madbacadda FC 
+21/08/2013 , Albeder , 1 : 1 , Badbaado FC 
+23/08/2013 , Gantaalaha Afgooye FC , 1 : 1 , Ummah Hospital 
+26/08/2013 , , 1 : 3 , Sahafi FC 
+28/08/2013 , Madbacadda FC , 0 : 3 , SomaliFruit FC 
+30/08/2013 , Gantaalaha Afgooye FC , 1 : 1 , Albeder 
+02/09/2013 , , 0 : 1 , Badbaado FC 
+04/09/2013 , Madbacadda FC , 0 : 0 , Ummah Hospital 
+06/09/2013 , SomaliFruit FC , 1 : 3 , Sahafi FC 
+09/09/2013 , Albeder , 1 : 1 , 
+11/09/2013 , Madbacadda FC , 3 : 3 , Gantaalaha Afgooye FC 
+13/09/2013 , SomaliFruit FC , 1 : 0 , Badbaado FC 
+16/09/2013 , Sahafi FC , 4 : 2 , Ummah Hospital 
+18/09/2013 , Madbacadda FC , 1 : 2 , Albeder 
+20/09/2013 , SomaliFruit FC , 1 : 1 , 
+23/09/2013 , Sahafi FC , 1 : 2 , Gantaalaha Afgooye FC 
+25/09/2013 , Ummah Hospital , 2 : 1 , Badbaado FC 
+27/09/2013 , Albeder , 2 : 3 , SomaliFruit FC 
+02/10/2013 , Ummah Hospital , 2 : 2 , 
+04/10/2013 , Badbaado FC , 1 : 0 , Gantaalaha Afgooye FC 
+07/10/2013 , Sahafi FC , 3 : 1 , Albeder 
+09/10/2013 , Ummah Hospital , 2 : 3 , SomaliFruit FC 
+11/10/2013 , Badbaado FC , 0 : 2 , Madbacadda FC 
+14/10/2013 , Gantaalaha Afgooye FC , 1 : 0 , 
+21/04/2013 , Geeska Afrika FC , 2 : 1 , Midnimo FC 
+23/04/2013 , Bariga Dhexe , 2 : 1 , Jazeera SC 
+25/04/2013 , Waxool FC , 6 : 0 , 
+28/04/2013 , Raadsan FC , 4 : 2 , Gasko FC 
+30/04/2013 , Jamhuuriya FC , 2 : 3 , Jazeera SC 
+02/05/2013 , Geeska Afrika FC , 2 : 1 , 
+05/05/2013 , Bariga Dhexe , 6 : 0 , Gasko FC 
+07/05/2013 , Waxool FC , 1 : 1 , Raadsan FC 
+09/05/2013 , Midnimo FC , 2 : 0 , 
+12/05/2013 , Jamhuuriya FC , 1 : 0 , Gasko FC 
+14/05/2013 , Geeska Afrika FC , 1 : 2 , Raadsan FC 
+16/05/2013 , Bariga Dhexe , 1 : 1 , Waxool FC 
+19/05/2013 , Jazeera SC , 1 : 0 , Gasko FC 
+21/05/2013 , Midnimo FC , 1 : 2 , Raadsan FC 
+23/05/2013 , Jamhuuriya FC , 1 : 1 , Waxool FC 
+26/05/2013 , Geeska Afrika FC , 0 : 2 , Bariga Dhexe 
+28/05/2013 , , 0 : 1 , Raadsan FC 
+30/05/2013 , Jazeera SC , 1 : 3 , Waxool FC 
+02/06/2013 , Midnimo FC , 1 : 0 , Bariga Dhexe 
+04/06/2013 , Jamhuuriya FC , 1 : 1 , Geeska Afrika FC 
+06/06/2013 , Gasko FC , 2 : 5 , Waxool FC 
+09/06/2013 , , 0 : 4 , Bariga Dhexe 
+11/06/2013 , Jazeera SC , 1 : 1 , Geeska Afrika FC 
+13/06/2013 , Midnimo FC , 1 : 1 , Jamhuuriya FC 
+16/06/2013 , Raadsan FC , 1 : 2 , Bariga Dhexe 
+18/06/2013 , Gasko FC , 4 : 2 , Geeska Afrika FC 
+20/06/2013 , , 1 : 2 , Jamhuuriya FC 
+24/06/2013 , Waxool FC , 1 : 1 , Geeska Afrika FC 
+25/06/2013 , Raadsan FC , 0 : 2 , Jamhuuriya FC 
+26/06/2013 , Gasko FC , 0 : 0 , Midnimo FC 
+27/06/2013 , , 0 : 3 , Jazeera SC 
+28/06/2013 , Bariga Dhexe , 0 : 1 , Jamhuuriya FC 
+30/06/2013 , Waxool FC , 3 : 0 , Midnimo FC 
+01/07/2013 , Raadsan FC , 3 : 2 , Jazeera SC 
+02/07/2013 , Gasko FC , 4 : 1 , 
+03/07/2013 , Jazeera SC , 2 : 1 , Midnimo FC 
+11/08/2013 , Midnimo FC , 2 : 1 , Geeska Afrika FC 
+13/08/2013 , Jazeera SC , 0 : 3 , Bariga Dhexe 
+15/08/2013 , , 1 : 4 , Waxool FC 
+18/08/2013 , Gasko FC , 2 : 1 , Raadsan FC 
+20/08/2013 , Jazeera SC , 3 : 2 , Jamhuuriya FC 
+22/08/2013 , , 2 : 2 , Geeska Afrika FC 
+25/08/2013 , Gasko FC , 0 : 0 , Bariga Dhexe 
+27/08/2013 , Raadsan FC , 2 : 1 , Waxool FC 
+29/08/2013 , , 0 : 1 , Midnimo FC 
+01/09/2013 , Gasko FC , 1 : 2 , Jamhuuriya FC 
+03/09/2013 , Raadsan FC , 1 : 1 , Geeska Afrika FC 
+05/09/2013 , Waxool FC , 3 : 1 , Bariga Dhexe 
+08/09/2013 , Gasko FC , 0 : 1 , Jazeera SC 
+10/09/2013 , Raadsan FC , 0 : 0 , Midnimo FC 
+12/09/2013 , Waxool FC , 0 : 0 , Jamhuuriya FC 
+15/09/2013 , Bariga Dhexe , 3 : 0 , Geeska Afrika FC 
+17/09/2013 , Raadsan FC , 6 : 1 , 
+19/09/2013 , Waxool FC , 1 : 1 , Jazeera SC 
+22/09/2013 , Bariga Dhexe , 6 : 0 , Midnimo FC 
+24/09/2013 , Geeska Afrika FC , 1 : 3 , Jamhuuriya FC 
+26/09/2013 , Waxool FC , 3 : 1 , Gasko FC 
+29/09/2013 , Bariga Dhexe , 10 : 1 , 
+01/10/2013 , Geeska Afrika FC , 2 : 3 , Jazeera SC 
+03/10/2013 , Jamhuuriya FC , 2 : 0 , Midnimo FC 
+08/10/2013 , Bariga Dhexe , 2 : 1 , Raadsan FC 
+10/10/2013 , Geeska Afrika FC , 3 : 0 , Gasko FC 
+13/10/2013 , Jamhuuriya FC , 8 : 0 , 
+15/10/2013 , Midnimo FC , 2 : 2 , Jazeera SC 
+16/10/2013 , Geeska Afrika FC , 1 : 5 , Waxool FC 
+17/10/2013 , Jamhuuriya FC , 0 : 1 , Raadsan FC 
+18/10/2013 , Midnimo FC , 2 : 2 , Gasko FC 
+19/10/2013 , Jazeera SC , 3 : 0 , 
+20/10/2013 , Jamhuuriya FC , 3 : 2 , Bariga Dhexe 
+21/10/2013 , Midnimo FC , 1 : 3 , Waxool FC 
+22/10/2013 , Jazeera SC , 2 : 3 , Raadsan FC 
+23/10/2013 , , 0 : 1 , Gasko FC 
+08/11/2013 , Heegan S.C , 3 : 2 , Gaadiidka FC 
+10/11/2013 , Horseed S.C , 0 : 3 , Dekedda SC 
+11/11/2013 , Jeenyo  FC , 2 : 0 , Batroolka FC 
+12/11/2013 , Elman FC , 1 : 3 , Mogadishu City Club 
+14/11/2013 , Dekedda SC , 1 : 2 , Heegan S.C 
+15/11/2013 , Gaadiidka FC , 1 : 0 , Batroolka FC 
+18/11/2013 , Horseed S.C , 2 : 2 , Mogadishu City Club 
+01/01/2014 , Jeenyo  FC , 0 : 2 , Elman FC 
+02/01/2014 , Heegan S.C , 4 : 2 , Batroolka FC 
+03/01/2014 , Dekedda SC , 2 : 4 , Mogadishu City Club 
+06/01/2014 , Gaadiidka FC , 0 : 3 , Elman FC 
+07/01/2014 , Horseed S.C , 2 : 4 , Jeenyo  FC 
+09/01/2014 , Mogadishu City Club , 1 : 0 , Heegan S.C 
+10/01/2014 , Batroolka FC , 1 : 2 , Elman FC 
+13/01/2014 , Dekedda SC , 0 : 3 , Jeenyo  FC 
+14/01/2014 , Gaadiidka FC , 2 : 2 , Horseed S.C 
+16/01/2014 , Heegan S.C , 1 : 2 , Elman FC 
+17/01/2014 , Mogadishu City Club , 1 : 1 , Jeenyo  FC 
+20/01/2014 , Batroolka FC , 1 : 3 , Horseed S.C 
+21/01/2014 , Dekedda SC , 1 : 1 , Gaadiidka FC 
+23/01/2014 , Jeenyo  FC , 0 : 1 , Heegan S.C 
+24/01/2014 , Elman FC , 3 : 3 , Horseed S.C 
+27/01/2014 , Mogadishu City Club , 3 : 2 , Gaadiidka FC 
+28/01/2014 , Batroolka FC , 0 : 1 , Dekedda SC 
+30/01/2014 , Jeenyo  FC , 2 : 0 , Gaadiidka FC 
+31/01/2014 , Heegan S.C , 3 : 0 , Horseed S.C 
+03/02/2014 , Elman FC , 2 : 0 , Dekedda SC 
+04/02/2014 , Mogadishu City Club , 4 : 1 , Batroolka FC 
+17/02/2014 , Gaadiidka FC , 1 : 2 , Heegan S.C 
+18/02/2014 , Dekedda SC , 0 : 1 , Horseed S.C 
+20/02/2014 , Jeenyo  FC , 1 : 1 , Batroolka FC 
+21/02/2014 , Mogadishu City Club , 0 : 0 , Elman FC 
+24/02/2014 , Heegan S.C , 1 : 2 , Dekedda SC 
+25/02/2014 , Batroolka FC , 0 : 2 , Gaadiidka FC 
+27/02/2014 , Mogadishu City Club , 2 : 0 , Horseed S.C 
+28/02/2014 , Elman FC , 2 : 5 , Jeenyo  FC 
+03/03/2014 , Batroolka FC , 1 : 3 , Heegan S.C 
+04/03/2014 , Mogadishu City Club , 2 : 1 , Dekedda SC 
+06/03/2014 , Elman FC , 3 : 1 , Gaadiidka FC 
+07/03/2014 , Jeenyo  FC , 1 : 0 , Horseed S.C 
+10/03/2014 , Heegan S.C , 0 : 2 , Mogadishu City Club 
+11/03/2014 , Elman FC , 8 : 0 , Batroolka FC 
+13/03/2014 , Jeenyo  FC , 1 : 1 , Dekedda SC 
+14/03/2014 , Horseed S.C , 3 : 2 , Gaadiidka FC 
+20/03/2014 , Elman FC , 2 : 2 , Heegan S.C 
+21/03/2014 , Jeenyo  FC , 1 : 1 , Mogadishu City Club 
+24/03/2014 , Horseed S.C , 6 : 1 , Batroolka FC 
+25/03/2014 , Gaadiidka FC , 0 : 0 , Dekedda SC 
+27/03/2014 , Heegan S.C , 1 : 1 , Jeenyo  FC 
+28/03/2014 , Horseed S.C , 1 : 1 , Elman FC 
+31/03/2014 , Gaadiidka FC , 1 : 2 , Mogadishu City Club 
+01/04/2014 , Dekedda SC , 1 : 2 , Batroolka FC 
+03/04/2014 , Horseed S.C , 3 : 3 , Heegan S.C 
+04/04/2014 , Gaadiidka FC , 3 : 1 , Jeenyo  FC 
+05/04/2014 , Dekedda SC , 0 : 3 , Elman FC 
+06/04/2014 , Batroolka FC , 1 : 7 , Mogadishu City Club 
+12/10/2014 , Geeska Afrika FC , 0 : 1 , Gasko FC 
+14/10/2014 , , 2 : 6 , Jazeera SC 
+16/10/2014 , Jamhuuriya FC , 3 : 0 , Raadsan FC 
+17/10/2014 , Midnimo FC , 3 : 0 , Gasko FC 
+19/10/2014 , Geeska Afrika FC , 3 : 1 , Raadsan FC 
+21/10/2014 , Jamhuuriya FC , 6 : 2 , 
+23/10/2014 , Jazeera SC , 2 : 3 , Midnimo FC 
+24/10/2014 , Gasko FC , 0 : 4 , Raadsan FC 
+26/10/2014 , Geeska Afrika FC , 2 : 1 , 
+28/10/2014 , Midnimo FC , 4 : 3 , Raadsan FC 
+30/10/2014 , Jazeera SC , 1 : 2 , Jamhuuriya FC 
+31/10/2014 , Gasko FC , 1 : 0 , 
+02/11/2014 , Jamhuuriya FC , 1 : 1 , Midnimo FC 
+04/11/2014 , Raadsan FC , 2 : 1 , 
+06/11/2014 , Jazeera SC , 3 : 2 , Geeska Afrika FC 
+07/11/2014 , Midnimo FC , 5 : 0 , 
+09/11/2014 , Jamhuuriya FC , 1 : 3 , Geeska Afrika FC 
+11/11/2014 , Jazeera SC , 2 : 0 , Gasko FC 
+13/11/2014 , Geeska Afrika FC , 3 : 2 , Midnimo FC 
+14/11/2014 , Jamhuuriya FC , 3 : 1 , Gasko FC 
+16/11/2014 , Raadsan FC , 1 : 2 , Jazeera SC 
+18/11/2014 , Gasko FC , 2 : 1 , Geeska Afrika FC 
+20/11/2014 , Jazeera SC , 1 : 1 , 
+21/11/2014 , Raadsan FC , 3 : 2 , Jamhuuriya FC 
+23/11/2014 , Gasko FC , 0 : 5 , Midnimo FC 
+25/11/2014 , Raadsan FC , 3 : 1 , Geeska Afrika FC 
+27/11/2014 , Jamhuuriya FC , 0 : 0 , 
+28/11/2014 , Midnimo FC , 2 : 2 , Jazeera SC 
+30/11/2014 , Raadsan FC , 3 : 2 , Gasko FC 
+02/12/2014 , , 1 : 3 , Geeska Afrika FC 
+04/12/2014 , Raadsan FC , 1 : 7 , Midnimo FC 
+05/12/2014 , Jamhuuriya FC , 2 : 3 , Jazeera SC 
+07/12/2014 , , 2 : 2 , Gasko FC 
+09/12/2014 , Midnimo FC , 9 : 2 , Jamhuuriya FC 
+11/12/2014 , , 3 : 4 , Raadsan FC 
+12/12/2014 , Geeska Afrika FC , 1 : 3 , Jazeera SC 
+14/12/2014 , , 1 : 12 , Midnimo FC 
+16/12/2014 , Geeska Afrika FC , 2 : 1 , Jamhuuriya FC 
+18/12/2014 , Gasko FC , 0 : 1 , Jazeera SC 
+19/12/2014 , Midnimo FC , 5 : 2 , Geeska Afrika FC 
+20/12/2014 , Gasko FC , 4 : 1 , Jamhuuriya FC 
+21/12/2014 , Jazeera SC , 0 : 2 , Raadsan FC 
+19/12/2014 , Horseed S.C , 2 : 3 , Elman FC 
+21/12/2014 , Jeenyo  FC , 1 : 3 , Heegan S.C 
+22/12/2014 , SomaliFruit FC , 3 : 1 , Dekedda SC 
+23/12/2014 , Mogadishu City Club , 1 : 1 , Gaadiidka FC 
+25/12/2014 , Batroolka FC , 2 : 3 , Sahafi FC 
+26/12/2014 , Heegan S.C , 4 : 0 , Horseed S.C 
+29/12/2014 , Elman FC , 1 : 1 , Dekedda SC 
+30/12/2014 , Jeenyo  FC , 4 : 2 , Gaadiidka FC 
+01/01/2015 , Sahafi FC , 2 : 0 , SomaliFruit FC 
+02/01/2015 , Mogadishu City Club , 3 : 0 , Batroolka FC 
+05/01/2015 , Horseed S.C , 0 : 1 , Dekedda SC 
+06/01/2015 , Heegan S.C , 1 : 0 , Gaadiidka FC 
+08/01/2015 , Elman FC , 0 : 2 , Sahafi FC 
+09/01/2015 , Jeenyo  FC , 4 : 1 , Batroolka FC 
+12/01/2015 , SomaliFruit FC , 1 : 2 , Mogadishu City Club 
+15/01/2015 , Gaadiidka FC , 0 : 1 , Horseed S.C 
+16/01/2015 , Dekedda SC , 2 : 1 , Sahafi FC 
+19/01/2015 , Batroolka FC , 0 : 4 , Heegan S.C 
+22/01/2015 , Mogadishu City Club , 1 : 1 , Elman FC 
+23/01/2015 , Jeenyo  FC , 5 : 0 , SomaliFruit FC 
+26/01/2015 , Horseed S.C , 2 : 1 , Sahafi FC 
+27/01/2015 , Gaadiidka FC , 3 : 0 , Batroolka FC 
+29/01/2015 , Dekedda SC , 0 : 2 , Mogadishu City Club 
+30/01/2015 , SomaliFruit FC , 1 : 8 , Heegan S.C 
+02/02/2015 , Elman FC , 1 : 1 , Jeenyo  FC 
+05/02/2015 , Batroolka FC , 2 : 2 , Horseed S.C 
+06/02/2015 , Sahafi FC , 0 : 0 , Mogadishu City Club 
+19/02/2015 , Dekedda SC , 0 : 1 , Jeenyo  FC 
+20/02/2015 , Elman FC , 1 : 0 , Heegan S.C 
+22/02/2015 , Horseed S.C , 0 : 2 , Mogadishu City Club 
+23/02/2015 , Batroolka FC , 1 : 2 , SomaliFruit FC 
+24/02/2015 , Sahafi FC , 0 : 0 , Jeenyo  FC 
+26/02/2015 , Gaadiidka FC , 0 : 0 , Elman FC 
+27/02/2015 , Dekedda SC , 0 : 2 , Heegan S.C 
+01/03/2015 , SomaliFruit FC , 2 : 0 , Horseed S.C 
+03/03/2015 , Batroolka FC , 1 : 3 , Elman FC 
+04/03/2015 , Mogadishu City Club , 0 : 3 , Jeenyo  FC 
+05/03/2015 , Sahafi FC , 3 : 3 , Heegan S.C 
+06/03/2015 , Gaadiidka FC , 0 : 1 , Dekedda SC 
+08/03/2015 , Horseed S.C , 0 : 1 , Jeenyo  FC 
+09/03/2015 , SomaliFruit FC , 0 : 2 , Elman FC 
+10/03/2015 , Mogadishu City Club , 0 : 0 , Heegan S.C 
+12/03/2015 , Batroolka FC , 0 : 4 , Dekedda SC 
+13/03/2015 , Sahafi FC , 0 : 1 , Gaadiidka FC 
+19/03/2015 , Elman FC , 3 : 0 , Horseed S.C 
+20/03/2015 , Heegan S.C , 2 : 0 , Jeenyo  FC 
+22/03/2015 , Dekedda SC , 0 : 1 , SomaliFruit FC 
+23/03/2015 , Gaadiidka FC , 2 : 1 , Mogadishu City Club 
+24/03/2015 , Sahafi FC , 7 : 0 , Batroolka FC 
+26/03/2015 , Horseed S.C , 1 : 0 , Heegan S.C 
+27/03/2015 , Dekedda SC , 2 : 0 , Elman FC 
+29/03/2015 , Gaadiidka FC , 4 : 2 , Jeenyo  FC 
+30/03/2015 , SomaliFruit FC , 1 : 4 , Sahafi FC 
+02/04/2015 , Dekedda SC , 4 : 0 , Horseed S.C 
+03/04/2015 , Gaadiidka FC , 0 : 1 , Heegan S.C 
+05/04/2015 , Sahafi FC , 1 : 3 , Elman FC 
+07/04/2015 , Mogadishu City Club , 2 : 0 , SomaliFruit FC 
+08/04/2015 , Batroolka FC , 1 : 8 , Jeenyo  FC 
+09/04/2015 , Horseed S.C , 1 : 3 , Gaadiidka FC 
+10/04/2015 , Sahafi FC , 1 : 3 , Dekedda SC 
+12/04/2015 , Heegan S.C , 4 : 1 , Batroolka FC 
+13/04/2015 , Elman FC , 0 : 0 , Mogadishu City Club 
+14/04/2015 , SomaliFruit FC , 1 : 1 , Jeenyo  FC 
+16/04/2015 , Sahafi FC , 0 : 0 , Horseed S.C 
+17/04/2015 , Batroolka FC , 0 : 0 , Gaadiidka FC 
+30/04/2015 , Batroolka FC , 1 : 5 , Mogadishu City Club 
+13/05/2015 , Mogadishu City Club , 0 : 1 , Dekedda SC 
+14/05/2015 , Heegan S.C , 3 : 0 , SomaliFruit FC 
+15/05/2015 , Jeenyo  FC , 0 : 0 , Elman FC 
+17/05/2015 , Horseed S.C , 3 : 1 , Batroolka FC 
+18/05/2015 , Mogadishu City Club , 3 : 0 , Sahafi FC 
+19/05/2015 , SomaliFruit FC , 1 : 0 , Gaadiidka FC 
+21/05/2015 , Jeenyo  FC , 3 : 0 , Dekedda SC 
+22/05/2015 , Heegan S.C , 1 : 1 , Elman FC 
+24/05/2015 , Mogadishu City Club , 5 : 0 , Horseed S.C 
+25/05/2015 , SomaliFruit FC , 1 : 2 , Batroolka FC 
+26/05/2015 , Jeenyo  FC , 2 : 1 , Sahafi FC 
+28/05/2015 , Elman FC , 0 : 2 , Gaadiidka FC 
+29/05/2015 , Heegan S.C , 2 : 0 , Dekedda SC 
+31/05/2015 , Horseed S.C , 2 : 0 , SomaliFruit FC 
+01/06/2015 , Jeenyo  FC , 1 : 2 , Mogadishu City Club 
+02/06/2015 , Elman FC , 4 : 2 , Batroolka FC 
+04/06/2015 , Heegan S.C , 0 : 1 , Sahafi FC 
+05/06/2015 , Dekedda SC , 2 : 0 , Gaadiidka FC 
+07/06/2015 , Jeenyo  FC , 2 : 1 , Horseed S.C 
+08/06/2015 , Elman FC , 2 : 2 , SomaliFruit FC 
+09/06/2015 , Heegan S.C , 0 : 2 , Mogadishu City Club 
+11/06/2015 , Dekedda SC , 5 : 1 , Batroolka FC 
+12/06/2015 , Gaadiidka FC , 2 : 1 , Sahafi FC 
+09/03/2018 , Elman FC , 3 : 0 , Gaadiidka FC 
+28/12/2015 , Dekedda SC , 1 : 0 , Heegan S.C 
+29/12/2015 , Mogadishu City Club , 1 : 0 , Waxool FC 
+30/12/2015 , Jeenyo  FC , 1 : 1 , Horseed S.C 
+31/12/2015 , Gaadiidka FC , 1 : 1 , Sahafi FC 
+01/01/2016 , Elman FC , 1 : 1 , Badbaado FC 
+04/01/2016 , Waxool FC , 0 : 0 , Dekedda SC 
+05/01/2016 , Heegan S.C , 2 : 2 , Horseed S.C 
+06/01/2016 , Mogadishu City Club , 1 : 0 , Sahafi FC 
+07/01/2016 , Jeenyo  FC , 4 : 1 , Badbaado FC 
+08/01/2016 , Gaadiidka FC , 0 : 1 , Elman FC 
+11/01/2016 , Dekedda SC , 2 : 0 , Horseed S.C 
+12/01/2016 , Waxool FC , 2 : 1 , Sahafi FC 
+13/01/2016 , Heegan S.C , 1 : 0 , Badbaado FC 
+14/01/2016 , Mogadishu City Club , 2 : 1 , Elman FC 
+15/01/2016 , Jeenyo  FC , 1 : 1 , Gaadiidka FC 
+18/01/2016 , Sahafi FC , 1 : 4 , Dekedda SC 
+19/01/2016 , Horseed S.C , 2 : 0 , Badbaado FC 
+20/01/2016 , Waxool FC , 0 : 4 , Elman FC 
+21/01/2016 , Heegan S.C , 0 : 1 , Gaadiidka FC 
+22/01/2016 , Mogadishu City Club , 2 : 0 , Jeenyo  FC 
+25/01/2016 , Dekedda SC , 2 : 2 , Badbaado FC 
+26/01/2016 , Sahafi FC , 2 : 0 , Elman FC 
+27/01/2016 , Horseed S.C , 0 : 2 , Gaadiidka FC 
+28/01/2016 , Waxool FC , 1 : 2 , Jeenyo  FC 
+29/01/2016 , Heegan S.C , 0 : 0 , Mogadishu City Club 
+01/02/2016 , Elman FC , 0 : 1 , Dekedda SC 
+02/02/2016 , Badbaado FC , 0 : 2 , Gaadiidka FC 
+03/02/2016 , Sahafi FC , 1 : 3 , Jeenyo  FC 
+04/02/2016 , Horseed S.C , 0 : 0 , Mogadishu City Club 
+05/02/2016 , Waxool FC , 0 : 2 , Heegan S.C 
+08/02/2016 , Dekedda SC , 1 : 1 , Gaadiidka FC 
+09/02/2016 , Elman FC , 1 : 1 , Jeenyo  FC 
+10/02/2016 , Badbaado FC , 0 : 6 , Mogadishu City Club 
+11/02/2016 , Sahafi FC , 0 : 2 , Heegan S.C 
+12/02/2016 , Horseed S.C , 3 : 1 , Waxool FC 
+15/02/2016 , Jeenyo  FC , 3 : 1 , Dekedda SC 
+16/02/2016 , Gaadiidka FC , 0 : 2 , Mogadishu City Club 
+17/02/2016 , Elman FC , 1 : 1 , Heegan S.C 
+18/02/2016 , Badbaado FC , 1 : 4 , Waxool FC 
+19/02/2016 , Sahafi FC , 2 : 3 , Horseed S.C 
+22/02/2016 , Dekedda SC , 1 : 1 , Mogadishu City Club 
+23/02/2016 , Jeenyo  FC , 2 : 2 , Heegan S.C 
+24/02/2016 , Gaadiidka FC , 2 : 1 , Waxool FC 
+25/02/2016 , Elman FC , 0 : 3 , Horseed S.C 
+26/02/2016 , Badbaado FC , 2 : 3 , Sahafi FC 
+03/03/2016 , Heegan S.C , 3 : 0 , Dekedda SC 
+04/03/2016 , Waxool FC , 1 : 2 , Mogadishu City Club 
+07/03/2016 , Horseed S.C , 1 : 3 , Jeenyo  FC 
+08/03/2016 , Sahafi FC , 1 : 1 , Gaadiidka FC 
+09/03/2016 , Badbaado FC , 1 : 2 , Elman FC 
+10/03/2016 , Dekedda SC , 2 : 1 , Waxool FC 
+11/03/2016 , Horseed S.C , 1 : 2 , Heegan S.C 
+14/03/2016 , Sahafi FC , 0 : 6 , Mogadishu City Club 
+15/03/2016 , Badbaado FC , 0 : 7 , Jeenyo  FC 
+16/03/2016 , Elman FC , 0 : 1 , Gaadiidka FC 
+17/03/2016 , Horseed S.C , 2 : 2 , Dekedda SC 
+18/03/2016 , Sahafi FC , 1 : 1 , Waxool FC 
+21/03/2016 , Badbaado FC , 1 : 8 , Heegan S.C 
+22/03/2016 , Elman FC , 1 : 1 , Mogadishu City Club 
+23/03/2016 , Gaadiidka FC , 1 : 2 , Jeenyo  FC 
+24/03/2016 , Dekedda SC , 4 : 1 , Sahafi FC 
+25/03/2016 , Badbaado FC , 2 : 3 , Horseed S.C 
+28/03/2016 , Elman FC , 3 : 0 , Waxool FC 
+29/03/2016 , Gaadiidka FC , 0 : 0 , Heegan S.C 
+08/04/2016 , Jeenyo  FC , 2 : 3 , Mogadishu City Club 
+11/04/2016 , Badbaado FC , 0 : 2 , Dekedda SC 
+12/04/2016 , Elman FC , 2 : 1 , Sahafi FC 
+13/04/2016 , Gaadiidka FC , 0 : 0 , Horseed S.C 
+14/04/2016 , Jeenyo  FC , 4 : 1 , Waxool FC 
+15/04/2016 , Mogadishu City Club , 1 : 1 , Heegan S.C 
+26/04/2016 , Dekedda SC , 3 : 0 , Elman FC 
+27/04/2016 , Gaadiidka FC , 2 : 0 , Badbaado FC 
+28/04/2016 , Jeenyo  FC , 1 : 0 , Sahafi FC 
+29/04/2016 , Mogadishu City Club , 2 : 0 , Horseed S.C 
+30/04/2016 , Heegan S.C , 4 : 1 , Waxool FC 
+01/05/2016 , Gaadiidka FC , 0 : 1 , Dekedda SC 
+02/05/2016 , Jeenyo  FC , 0 : 0 , Elman FC 
+03/05/2016 , Mogadishu City Club , 4 : 0 , Badbaado FC 
+04/05/2016 , Heegan S.C , 2 : 2 , Sahafi FC 
+05/05/2016 , Waxool FC , 2 : 1 , Horseed S.C 
+06/05/2016 , Dekedda SC , 1 : 0 , Jeenyo  FC 
+07/05/2016 , Mogadishu City Club , 2 : 1 , Gaadiidka FC 
+08/05/2016 , Heegan S.C , 0 : 0 , Elman FC 
+09/05/2016 , Waxool FC , 1 : 1 , Badbaado FC 
+10/05/2016 , Horseed S.C , 2 : 1 , Sahafi FC 
+11/05/2016 , Mogadishu City Club , 0 : 0 , Dekedda SC 
+12/05/2016 , Heegan S.C , 1 : 1 , Jeenyo  FC 
+13/05/2016 , Waxool FC , 3 : 2 , Gaadiidka FC 
+14/05/2016 , Horseed S.C , 2 : 0 , Elman FC 
+15/05/2016 , Sahafi FC , 12 : 1 , Badbaado FC 
+18/11/2016 , Heegan S.C , 0 : 2 , Elman FC 
+20/11/2016 , Gaadiidka FC , 2 : 2 , Jeenyo  FC 
+21/11/2016 , Jazeera SC , 1 : 3 , Mogadishu City Club 
+22/11/2016 , Bariga Dhexe , 1 : 3 , Dekedda SC 
+23/11/2016 , Horseed S.C , 2 : 1 , Waxool FC 
+24/11/2016 , Jeenyo  FC , 1 : 1 , Heegan S.C 
+25/11/2016 , Elman FC , 1 : 2 , Mogadishu City Club 
+26/11/2016 , Gaadiidka FC , 1 : 1 , Dekedda SC 
+29/11/2016 , Jazeera SC , 1 : 4 , Waxool FC 
+29/11/2016 , Bariga Dhexe , 1 : 1 , Horseed S.C 
+13/02/2017 , Heegan S.C , 0 : 0 , Mogadishu City Club 
+13/02/2017 , Jeenyo  FC , 2 : 2 , Dekedda SC 
+14/02/2017 , Elman FC , 5 : 2 , Waxool FC 
+14/02/2017 , Gaadiidka FC , 1 : 1 , Horseed S.C 
+16/02/2017 , Jazeera SC , 0 : 2 , Bariga Dhexe 
+16/02/2017 , Dekedda SC , 1 : 1 , Heegan S.C 
+17/02/2017 , Mogadishu City Club , 3 : 0 , Waxool FC 
+17/02/2017 , Jeenyo  FC , 1 : 0 , Horseed S.C 
+20/02/2017 , Gaadiidka FC , 7 : 0 , Jazeera SC 
+20/02/2017 , Elman FC , 4 : 0 , Bariga Dhexe 
+21/02/2017 , Heegan S.C , 2 : 0 , Waxool FC 
+21/02/2017 , Dekedda SC , 1 : 2 , Horseed S.C 
+23/02/2017 , Mogadishu City Club , 5 : 1 , Bariga Dhexe 
+23/02/2017 , Jeenyo  FC , 2 : 2 , Jazeera SC 
+24/02/2017 , Horseed S.C , 2 : 1 , Heegan S.C 
+24/02/2017 , Elman FC , 3 : 1 , Gaadiidka FC 
+27/02/2017 , Dekedda SC , 6 : 0 , Jazeera SC 
+27/02/2017 , Waxool FC , 0 : 1 , Bariga Dhexe 
+28/02/2017 , Mogadishu City Club , 2 : 1 , Gaadiidka FC 
+28/02/2017 , Jeenyo  FC , 1 : 1 , Elman FC 
+02/03/2017 , Heegan S.C , 1 : 2 , Bariga Dhexe 
+02/03/2017 , Horseed S.C , 2 : 0 , Jazeera SC 
+03/03/2017 , Waxool FC , 0 : 4 , Gaadiidka FC 
+03/03/2017 , Dekedda SC , 0 : 0 , Elman FC 
+06/03/2017 , Mogadishu City Club , 2 : 2 , Jeenyo  FC 
+06/03/2017 , Jazeera SC , 1 : 2 , Heegan S.C 
+07/03/2017 , Bariga Dhexe , 0 : 6 , Gaadiidka FC 
+07/03/2017 , Horseed S.C , 1 : 1 , Elman FC 
+09/03/2017 , Waxool FC , 0 : 5 , Jeenyo  FC 
+09/03/2017 , Dekedda SC , 1 : 0 , Mogadishu City Club 
+10/03/2017 , Jazeera SC , 0 : 7 , Elman FC 
+10/03/2017 , Heegan S.C , 1 : 0 , Gaadiidka FC 
+13/03/2017 , Bariga Dhexe , 1 : 5 , Jeenyo  FC 
+13/03/2017 , Horseed S.C , 0 : 3 , Mogadishu City Club 
+14/03/2017 , Waxool FC , 1 : 7 , Dekedda SC 
+20/03/2017 , Elman FC , 0 : 0 , Heegan S.C 
+20/03/2017 , Jeenyo  FC , 1 : 1 , Gaadiidka FC 
+21/03/2017 , Mogadishu City Club , 3 : 1 , Jazeera SC 
+21/03/2017 , Dekedda SC , 3 : 0 , Bariga Dhexe 
+23/03/2017 , Mogadishu City Club , 0 : 1 , Elman FC 
+23/03/2017 , Dekedda SC , 2 : 1 , Gaadiidka FC 
+23/03/2017 , Waxool FC , 0 : 0 , Horseed S.C 
+23/03/2017 , Heegan S.C , 4 : 3 , Jeenyo  FC 
+27/03/2017 , Horseed S.C , 0 : 0 , Bariga Dhexe 
+27/03/2017 , Waxool FC , 1 : 2 , Jazeera SC 
+27/03/2017 , Mogadishu City Club , 0 : 1 , Heegan S.C 
+27/03/2017 , Dekedda SC , 4 : 0 , Jeenyo  FC 
+30/03/2017 , Waxool FC , 0 : 2 , Elman FC 
+30/03/2017 , Horseed S.C , 2 : 1 , Gaadiidka FC 
+31/03/2017 , Bariga Dhexe , 0 : 1 , Jazeera SC 
+08/05/2017 , Heegan S.C , 0 : 2 , Dekedda SC 
+09/05/2017 , Waxool FC , 2 : 1 , Mogadishu City Club 
+11/05/2017 , Horseed S.C , 1 : 0 , Jeenyo  FC 
+12/05/2017 , Bariga Dhexe , 0 : 6 , Elman FC 
+14/05/2017 , Jazeera SC , 1 : 6 , Gaadiidka FC 
+15/05/2017 , Waxool FC , 0 : 2 , Heegan S.C 
+16/05/2017 , Horseed S.C , 1 : 1 , Dekedda SC 
+18/05/2017 , Bariga Dhexe , 1 : 4 , Mogadishu City Club 
+19/05/2017 , Jazeera SC , 1 : 3 , Jeenyo  FC 
+21/05/2017 , Gaadiidka FC , 3 : 0 , Elman FC 
+06/07/2017 , Heegan S.C , 1 : 1 , Horseed S.C 
+07/07/2017 , Bariga Dhexe , 0 : 2 , Waxool FC 
+10/07/2017 , Jazeera SC , 0 : 1 , Dekedda SC 
+11/07/2017 , Gaadiidka FC , 0 : 0 , Mogadishu City Club 
+12/07/2017 , Elman FC , 0 : 1 , Jeenyo  FC 
+13/07/2017 , Bariga Dhexe , 0 : 4 , Heegan S.C 
+14/07/2017 , Jazeera SC , 1 : 3 , Horseed S.C 
+17/07/2017 , Gaadiidka FC , 1 : 1 , Waxool FC 
+18/07/2017 , Elman FC , 0 : 2 , Dekedda SC 
+19/07/2017 , Jeenyo  FC , 0 : 3 , Mogadishu City Club 
+20/07/2017 , Heegan S.C , 2 : 0 , Jazeera SC 
+21/07/2017 , Gaadiidka FC , 2 : 0 , Bariga Dhexe 
+24/07/2017 , Elman FC , 1 : 1 , Horseed S.C 
+25/07/2017 , Jeenyo  FC , 0 : 0 , Waxool FC 
+26/07/2017 , Mogadishu City Club , 1 : 1 , Dekedda SC 
+27/07/2017 , Gaadiidka FC , 2 : 3 , Heegan S.C 
+28/07/2017 , Elman FC , 4 : 0 , Jazeera SC 
+31/07/2017 , Jeenyo  FC , 1 : 0 , Bariga Dhexe 
+01/08/2017 , Mogadishu City Club , 1 : 0 , Horseed S.C 
+02/08/2017 , Dekedda SC , 2 : 0 , Waxool FC 
+22/01/2018 , Dekedda SC , 1 : 0 , Waxool FC 
+23/01/2018 , Batroolka FC , 0 : 0 , Gaadiidka FC 
+24/01/2018 , Heegan S.C , 4 : 1 , Elman FC 
+25/01/2018 , Madbacadda FC , 1 : 1 , Jeenyo  FC 
+26/01/2018 , Horseed S.C , 1 : 0 , Mogadishu City Club 
+29/01/2018 , Gaadiidka FC , 1 : 1 , Dekedda SC 
+30/01/2018 , Waxool FC , 0 : 4 , Elman FC 
+31/01/2018 , Batroolka FC , 0 : 0 , Jeenyo  FC 
+01/02/2018 , Heegan S.C , 1 : 1 , Mogadishu City Club 
+02/02/2018 , Madbacadda FC , 0 : 0 , Horseed S.C 
+05/02/2018 , Dekedda SC , 1 : 0 , Elman FC 
+06/02/2018 , Gaadiidka FC , 0 : 1 , Jeenyo  FC 
+07/02/2018 , Waxool FC , 1 : 4 , Mogadishu City Club 
+08/02/2018 , Batroolka FC , 1 : 5 , Horseed S.C 
+09/02/2018 , Heegan S.C , 0 : 0 , Madbacadda FC 
+12/02/2018 , Jeenyo  FC , 0 : 2 , Dekedda SC 
+13/02/2018 , Elman FC , 2 : 6 , Mogadishu City Club 
+14/02/2018 , Gaadiidka FC , 1 : 3 , Horseed S.C 
+15/02/2018 , Waxool FC , 0 : 1 , Madbacadda FC 
+16/02/2018 , Batroolka FC , 1 : 2 , Heegan S.C 
+19/02/2018 , Dekedda SC , 1 : 0 , Mogadishu City Club 
+20/02/2018 , Jeenyo  FC , 0 : 2 , Horseed S.C 
+21/02/2018 , Elman FC , 5 : 1 , Madbacadda FC 
+22/02/2018 , Gaadiidka FC , 1 : 2 , Heegan S.C 
+23/02/2018 , Waxool FC , 2 : 2 , Batroolka FC 
+26/02/2018 , Horseed S.C , 0 : 0 , Dekedda SC 
+27/02/2018 , Mogadishu City Club , 2 : 0 , Madbacadda FC 
+28/02/2018 , Jeenyo  FC , 1 : 0 , Heegan S.C 
+01/03/2018 , Elman FC , 1 : 4 , Batroolka FC 
+02/03/2018 , Gaadiidka FC , 1 : 1 , Waxool FC 
+05/03/2018 , Dekedda SC , 7 : 1 , Madbacadda FC 
+06/03/2018 , Horseed S.C , 0 : 0 , Heegan S.C 
+07/03/2018 , Mogadishu City Club , 1 : 1 , Batroolka FC 
+08/03/2018 , Jeenyo  FC , 0 : 1 , Waxool FC 
+09/03/2018 , Elman FC , 3 : 0 , Gaadiidka FC 
+12/03/2018 , Heegan S.C , 0 : 0 , Dekedda SC 
+13/03/2018 , Madbacadda FC , 0 : 0 , Batroolka FC 
+14/03/2018 , Horseed S.C , 3 : 0 , Waxool FC 
+15/03/2018 , Mogadishu City Club , 3 : 0 , Gaadiidka FC 
+16/03/2018 , Jeenyo  FC , 2 : 2 , Elman FC 
+19/03/2018 , Dekedda SC , 5 : 0 , Batroolka FC 
+20/03/2018 , Heegan S.C , 5 : 0 , Waxool FC 
+21/03/2018 , Madbacadda FC , 0 : 2 , Gaadiidka FC 
+22/03/2018 , Horseed S.C , 2 : 0 , Elman FC 
+23/03/2018 , Mogadishu City Club , 4 : 2 , Jeenyo  FC 
+26/03/2018 , Waxool FC , 1 : 4 , Dekedda SC 
+27/03/2018 , Gaadiidka FC , 0 : 1 , Batroolka FC 
+28/03/2018 , Elman FC , 1 : 2 , Heegan S.C 
+29/03/2018 , Jeenyo  FC , 1 : 1 , Madbacadda FC 
+30/03/2018 , Mogadishu City Club , 3 : 2 , Horseed S.C 
+31/03/2018 , Dekedda SC , 6 : 0 , Gaadiidka FC 
+01/04/2018 , Elman FC , 4 : 1 , Waxool FC 
+02/04/2018 , Jeenyo  FC , 6 : 0 , Batroolka FC 
+03/04/2018 , Mogadishu City Club , 1 : 1 , Heegan S.C 
+04/04/2018 , Horseed S.C , 1 : 1 , Madbacadda FC 
+05/04/2018 , Elman FC , 3 : 0 , Dekedda SC 
+07/04/2018 , Jeenyo  FC , 3 : 6 , Gaadiidka FC 
+08/04/2018 , Mogadishu City Club , 2 : 0 , Waxool FC 
+09/04/2018 , Horseed S.C , 5 : 0 , Batroolka FC 
+10/04/2018 , Madbacadda FC , 1 : 0 , Heegan S.C 
+11/04/2018 , Dekedda SC , 3 : 0 , Jeenyo  FC 
+12/04/2018 , Mogadishu City Club , 4 : 2 , Elman FC 
+13/04/2018 , Horseed S.C , 0 : 0 , Gaadiidka FC 
+14/04/2018 , Madbacadda FC , 1 : 2 , Waxool FC 
+15/04/2018 , Heegan S.C , 3 : 0 , Batroolka FC 
+16/04/2018 , Mogadishu City Club , 0 : 0 , Dekedda SC 
+17/04/2018 , Horseed S.C , 0 : 0 , Jeenyo  FC 
+18/04/2018 , Madbacadda FC , 1 : 1 , Elman FC 
+19/04/2018 , Heegan S.C , 3 : 1 , Gaadiidka FC 
+20/04/2018 , Batroolka FC , 1 : 2 , Waxool FC 
+21/04/2018 , Dekedda SC , 2 : 2 , Horseed S.C 
+22/04/2018 , Madbacadda FC , 2 : 2 , Mogadishu City Club 
+23/04/2018 , Heegan S.C , 4 : 1 , Jeenyo  FC 
+24/04/2018 , Batroolka FC , 1 : 2 , Mogadishu City Club 
+25/04/2018 , Waxool FC , 1 : 2 , Jeenyo  FC 
+26/04/2018 , Gaadiidka FC , 1 : 2 , Mogadishu City Club 
+27/04/2018 , Batroolka FC , 2 : 2 , Elman FC 
+28/04/2018 , Jeenyo  FC , 1 : 2 , Mogadishu City Club 
+29/04/2018 , Heegan S.C , 1 : 0 , Horseed S.C 
+30/04/2018 , Gaadiidka FC , 2 : 2 , Elman FC 
+01/05/2018 , Batroolka FC , 1 : 4 , Madbacadda FC 
+02/05/2018 , Dekedda SC , 1 : 1 , Heegan S.C 
+03/05/2018 , Waxool FC , 1 : 3 , Gaadiidka FC 
+04/05/2018 , Elman FC , 2 : 1 , Jeenyo  FC 
+05/05/2018 , Madbacadda FC , 0 : 5 , Dekedda SC 
+06/05/2018 , Waxool FC , 1 : 4 , Horseed S.C 
+08/05/2018 , Gaadiidka FC , 4 : 1 , Madbacadda FC 
+09/05/2018 , Batroolka FC , 1 : 6 , Dekedda SC 
+10/05/2018 , Elman FC , 2 : 3 , Horseed S.C 
+11/05/2018 , Waxool FC , 0 : 7 , Heegan S.C 
+07/02/2019 , Dekedda SC , 1 : 1 , Gaadiidka FC 
+08/02/2019 , Jeenyo  FC , 1 : 0 , Mogadishu City Club 
+11/02/2019 , Heegan S.C , 1 : 0 , Madbacadda FC 
+12/02/2019 , Jazeera SC , 0 : 1 , Midnimo FC 
+13/02/2019 , Horseed S.C , 0 : 0 , Elman FC 
+14/02/2019 , Jeenyo  FC , 2 : 8 , Dekedda SC 
+15/02/2019 , Gaadiidka FC , 0 : 0 , Madbacadda FC 
+18/02/2019 , Mogadishu City Club , 1 : 1 , Midnimo FC 
+19/02/2019 , Heegan S.C , 1 : 3 , Elman FC 
+20/02/2019 , Jazeera SC , 1 : 1 , Horseed S.C 
+21/02/2019 , Dekedda SC , 1 : 0 , Madbacadda FC 
+22/02/2019 , Jeenyo  FC , 0 : 1 , Midnimo FC 
+25/02/2019 , Gaadiidka FC , 1 : 3 , Elman FC 
+26/02/2019 , Mogadishu City Club , 1 : 2 , Horseed S.C 
+27/02/2019 , Heegan S.C , 3 : 0 , Jazeera SC 
+28/02/2019 , Midnimo FC , 0 : 2 , Dekedda SC 
+01/03/2019 , Madbacadda FC , 1 : 0 , Elman FC 
+03/03/2019 , Jeenyo  FC , 0 : 4 , Horseed S.C 
+05/03/2019 , Gaadiidka FC , 0 : 1 , Jazeera SC 
+06/03/2019 , Mogadishu City Club , 1 : 0 , Heegan S.C 
+07/03/2019 , Dekedda SC , 1 : 0 , Elman FC 
+08/03/2019 , Midnimo FC , 0 : 2 , Horseed S.C 
+11/03/2019 , Madbacadda FC , 1 : 2 , Jazeera SC 
+12/03/2019 , Jeenyo  FC , 0 : 2 , Heegan S.C 
+13/03/2019 , Gaadiidka FC , 1 : 2 , Mogadishu City Club 
+14/03/2019 , Horseed S.C , 1 : 0 , Dekedda SC 
+15/03/2019 , Elman FC , 3 : 2 , Jazeera SC 
+18/03/2019 , Midnimo FC , 1 : 3 , Heegan S.C 
+19/03/2019 , Madbacadda FC , 1 : 4 , Mogadishu City Club 
+20/03/2019 , Jeenyo  FC , 2 : 4 , Gaadiidka FC 
+21/03/2019 , Dekedda SC , 2 : 1 , Jazeera SC 
+22/03/2019 , Horseed S.C , 0 : 1 , Heegan S.C 
+25/03/2019 , Elman FC , 1 : 1 , Mogadishu City Club 
+26/03/2019 , Midnimo FC , 0 : 2 , Gaadiidka FC 
+27/03/2019 , Madbacadda FC , 2 : 1 , Jeenyo  FC 
+28/03/2019 , Heegan S.C , 1 : 1 , Dekedda SC 
+29/03/2019 , Jazeera SC , 2 : 5 , Mogadishu City Club 
+01/04/2019 , Horseed S.C , 6 : 0 , Gaadiidka FC 
+02/04/2019 , Elman FC , 3 : 1 , Jeenyo  FC 
+03/04/2019 , Midnimo FC , 1 : 0 , Madbacadda FC 
+04/04/2019 , Dekedda SC , 1 : 0 , Mogadishu City Club 
+04/04/2019 , Heegan S.C , 4 : 0 , Gaadiidka FC 
+08/04/2019 , Jeenyo  FC , 0 : 1 , Jazeera SC 
+09/04/2019 , Horseed S.C , 4 : 0 , Madbacadda FC 
+10/04/2019 , Elman FC , 1 : 2 , Midnimo FC 
+22/04/2019 , Gaadiidka FC , 0 : 4 , Dekedda SC 
+23/04/2019 , Jeenyo  FC , 0 : 4 , Mogadishu City Club 
+24/04/2019 , Madbacadda FC , 3 : 4 , Heegan S.C 
+25/04/2019 , Midnimo FC , 2 : 2 , Jazeera SC 
+26/04/2019 , Elman FC , 2 : 1 , Horseed S.C 
+29/04/2019 , Dekedda SC , 4 : 1 , Jeenyo  FC 
+30/04/2019 , Madbacadda FC , 0 : 2 , Gaadiidka FC 
+02/05/2019 , Elman FC , 2 : 1 , Heegan S.C 
+03/05/2019 , Horseed S.C , 3 : 1 , Jazeera SC 
+07/06/2019 , Madbacadda FC , 0 : 2 , Dekedda SC 
+08/06/2019 , Midnimo FC , 0 : 0 , Jeenyo  FC 
+09/06/2019 , Elman FC , 3 : 1 , Gaadiidka FC 
+10/06/2019 , Horseed S.C , 1 : 0 , Mogadishu City Club 
+11/06/2019 , Jazeera SC , 0 : 0 , Heegan S.C 
+12/06/2019 , Elman FC , 1 : 1 , Madbacadda FC 
+12/06/2019 , Dekedda SC , 1 : 0 , Midnimo FC 
+13/06/2019 , Horseed S.C , 3 : 0 , Jeenyo  FC 
+13/06/2019 , Jazeera SC , 2 : 2 , Gaadiidka FC 
+14/06/2019 , Heegan S.C , 0 : 0 , Mogadishu City Club 
+15/06/2019 , Elman FC , 2 : 0 , Dekedda SC 
+15/06/2019 , Horseed S.C , 3 : 0 , Midnimo FC 
+17/06/2019 , Jazeera SC , 0 : 0 , Madbacadda FC 
+18/06/2019 , Heegan S.C , 1 : 1 , Jeenyo  FC 
+19/06/2019 , Mogadishu City Club , 1 : 0 , Gaadiidka FC 
+20/06/2019 , Dekedda SC , 1 : 1 , Horseed S.C 
+20/06/2019 , Jazeera SC , 2 : 2 , Elman FC 
+21/06/2019 , Heegan S.C , 2 : 0 , Midnimo FC 
+21/06/2019 , Mogadishu City Club , 0 : 0 , Madbacadda FC 
+22/06/2019 , Gaadiidka FC , 2 : 1 , Jeenyo  FC 
+24/06/2019 , Jazeera SC , 1 : 4 , Dekedda SC 
+25/06/2019 , Heegan S.C , 1 : 1 , Horseed S.C 
+26/06/2019 , Mogadishu City Club , 2 : 2 , Elman FC 
+27/06/2019 , Gaadiidka FC , 1 : 0 , Midnimo FC 
+28/06/2019 , Jeenyo  FC , 2 : 4 , Madbacadda FC 
+29/06/2019 , Dekedda SC , 1 : 0 , Heegan S.C 
+30/06/2019 , Mogadishu City Club , 4 : 5 , Jazeera SC 
+01/07/2019 , Gaadiidka FC , 0 : 3 , Horseed S.C 
+01/07/2019 , Jeenyo  FC , 2 : 6 , Elman FC 
+02/07/2019 , Madbacadda FC , 0 : 1 , Midnimo FC 
+02/07/2019 , Mogadishu City Club , 2 : 3 , Dekedda SC 
+03/07/2019 , Gaadiidka FC , 0 : 1 , Heegan S.C 
+03/07/2019 , Jeenyo  FC , 2 : 4 , Jazeera SC 
+04/07/2019 , Madbacadda FC , 0 : 3 , Horseed S.C 
+04/07/2019 , Midnimo FC , 0 : 0 , Elman FC 
+26/12/2019 , Raadsan FC , 3 : 0 , Gaadiidka FC 
+26/12/2019 , Dekedda SC , 1 : 1 , Midnimo FC 
+28/12/2019 , Mogadishu City Club , 1 : 2 , Rajo FC 
+28/12/2019 , Elman FC , 1 : 1 , Heegan S.C 
+30/12/2019 , Horseed S.C , 1 : 1 , Jazeera SC 
+01/01/2020 , Gaadiidka FC , 0 : 1 , Dekedda SC 
+02/01/2020 , Midnimo FC , 0 : 2 , Heegan S.C 
+03/01/2020 , Raadsan FC , 2 : 2 , Rajo FC 
+06/01/2020 , Elman FC , 4 : 1 , Jazeera SC 
+07/01/2020 , Mogadishu City Club , 0 : 0 , Horseed S.C 
+08/01/2020 , Dekedda SC , 2 : 1 , Heegan S.C 
+09/01/2020 , Gaadiidka FC , 3 : 1 , Rajo FC 
+10/01/2020 , Midnimo FC , 3 : 0 , Jazeera SC 
+13/01/2020 , Raadsan FC , 2 : 4 , Horseed S.C 
+14/01/2020 , Elman FC , 1 : 1 , Mogadishu City Club 
+15/01/2020 , Rajo FC , 0 : 2 , Dekedda SC 
+16/01/2020 , Heegan S.C , 2 : 0 , Jazeera SC 
+17/01/2020 , Gaadiidka FC , 0 : 1 , Horseed S.C 
+20/01/2020 , Midnimo FC , 0 : 4 , Mogadishu City Club 
+21/01/2020 , Raadsan FC , 2 : 3 , Elman FC 
+22/01/2020 , Dekedda SC , 2 : 1 , Jazeera SC 
+23/01/2020 , Rajo FC , 0 : 2 , Horseed S.C 
+24/01/2020 , Heegan S.C , 0 : 3 , Mogadishu City Club 
+27/01/2020 , Gaadiidka FC , 1 : 3 , Elman FC 
+28/01/2020 , Midnimo FC , 0 : 3 , Raadsan FC 
+29/01/2020 , Horseed S.C , 0 : 0 , Dekedda SC 
+30/01/2020 , Jazeera SC , 1 : 3 , Mogadishu City Club 
+31/01/2020 , Rajo FC , 1 : 6 , Elman FC 
+03/02/2020 , Heegan S.C , 2 : 1 , Raadsan FC 
+04/02/2020 , Gaadiidka FC , 0 : 2 , Midnimo FC 
+05/02/2020 , Dekedda SC , 0 : 5 , Mogadishu City Club 
+06/02/2020 , Horseed S.C , 2 : 3 , Elman FC 
+07/02/2020 , Jazeera SC , 2 : 2 , Raadsan FC 
+10/02/2020 , Rajo FC , 1 : 1 , Midnimo FC 
+11/02/2020 , Heegan S.C , 1 : 1 , Gaadiidka FC 
+12/02/2020 , Elman FC , 0 : 1 , Dekedda SC 
+13/02/2020 , Mogadishu City Club , 2 : 3 , Raadsan FC 
+14/02/2020 , Horseed S.C , 1 : 0 , Midnimo FC 
+17/02/2020 , Jazeera SC , 1 : 1 , Gaadiidka FC 
+18/02/2020 , Rajo FC , 1 : 2 , Heegan S.C 
+19/02/2020 , Dekedda SC , 1 : 0 , Raadsan FC 
+20/02/2020 , Elman FC , 1 : 1 , Midnimo FC 
+21/02/2020 , Mogadishu City Club , 3 : 0 , Gaadiidka FC 
+24/02/2020 , Horseed S.C , 1 : 0 , Heegan S.C 
+25/02/2020 , Jazeera SC , 4 : 2 , Rajo FC 
+02/03/2020 , Midnimo FC , 0 : 0 , Dekedda SC 
+03/03/2020 , Gaadiidka FC , 5 : 0 , Raadsan FC 
+04/03/2020 , Heegan S.C , 3 : 1 , Elman FC 
+05/03/2020 , Rajo FC , 0 : 5 , Mogadishu City Club 
+06/03/2020 , Jazeera SC , 0 : 1 , Horseed S.C 
+09/03/2020 , Dekedda SC , 1 : 3 , Gaadiidka FC 
+10/03/2020 , Heegan S.C , 0 : 1 , Midnimo FC 
+11/03/2020 , Rajo FC , 0 : 4 , Raadsan FC 
+12/03/2020 , Jazeera SC , 2 : 4 , Elman FC 
+13/03/2020 , Horseed S.C , 0 : 0 , Mogadishu City Club 
+16/03/2020 , Heegan S.C , 1 : 0 , Dekedda SC 
+17/03/2020 , Rajo FC , 0 : 7 , Gaadiidka FC 
+18/03/2020 , Jazeera SC , 1 : 2 , Midnimo FC 
+18/06/2020 , Horseed S.C , 4 : 0 , Raadsan FC 
+19/06/2020 , Mogadishu City Club , 2 : 0 , Elman FC 
+22/06/2020 , Dekedda SC , 4 : 1 , Rajo FC 
+23/06/2020 , Jazeera SC , 0 : 3 , Heegan S.C 
+24/06/2020 , Horseed S.C , 0 : 1 , Gaadiidka FC 
+25/06/2020 , Mogadishu City Club , 2 : 1 , Midnimo FC 
+26/06/2020 , Elman FC , 2 : 1 , Raadsan FC 
+18/01/2021 , Heegan S.C , 1 : 0 , Midnimo FC 
+19/01/2021 , Geeska Afrika FC , 0 : 0 , Jeenyo  FC 
+20/01/2021 , Raadsan FC , 1 : 0 , Horseed S.C 
+21/01/2021 , Elman FC , 0 : 1 , Mogadishu City Club 
+22/01/2021 , Dekedda SC , 1 : 1 , Gaadiidka FC 
+25/01/2021 , Jeenyo  FC , 1 : 2 , Heegan S.C 
+26/01/2021 , Midnimo FC , 0 : 2 , Horseed S.C 
+27/01/2021 , Geeska Afrika FC , 0 : 2 , Mogadishu City Club 
+28/01/2021 , Raadsan FC , 1 : 0 , Gaadiidka FC 
+29/01/2021 , Elman FC , 2 : 1 , Dekedda SC 
+01/02/2021 , Heegan S.C , 1 : 1 , Horseed S.C 
+02/02/2021 , Jeenyo  FC , 1 : 0 , Mogadishu City Club 
+03/02/2021 , Midnimo FC , 1 : 1 , Gaadiidka FC 
+04/02/2021 , Geeska Afrika FC , 0 : 3 , Dekedda SC 
+05/02/2021 , Raadsan FC , 1 : 0 , Elman FC 
+08/02/2021 , Mogadishu City Club , 3 : 2 , Heegan S.C 
+09/02/2021 , Horseed S.C , 1 : 3 , Gaadiidka FC 
+10/02/2021 , Jeenyo  FC , 0 : 4 , Dekedda SC 
+11/02/2021 , Midnimo FC , 1 : 0 , Elman FC 
+12/02/2021 , Geeska Afrika FC , 0 : 2 , Raadsan FC 
+15/02/2021 , Heegan S.C , 3 : 0 , Gaadiidka FC 
+16/02/2021 , Mogadishu City Club , 1 : 0 , Dekedda SC 
+17/02/2021 , Horseed S.C , 3 : 0 , Elman FC 
+18/02/2021 , Jeenyo  FC , 1 : 1 , Raadsan FC 
+22/02/2021 , Midnimo FC , 2 : 1 , Geeska Afrika FC 
+22/02/2021 , Dekedda SC , 0 : 0 , Heegan S.C 
+23/02/2021 , Gaadiidka FC , 0 : 1 , Elman FC 
+24/02/2021 , Mogadishu City Club , 1 : 0 , Raadsan FC 
+25/02/2021 , Horseed S.C , 3 : 1 , Geeska Afrika FC 
+26/02/2021 , Jeenyo  FC , 1 : 0 , Midnimo FC 
+01/03/2021 , Heegan S.C , 1 : 0 , Elman FC 
+02/03/2021 , Dekedda SC , 1 : 2 , Raadsan FC 
+02/03/2021 , Gaadiidka FC , 6 : 0 , Geeska Afrika FC 
+04/03/2021 , Mogadishu City Club , 1 : 0 , Midnimo FC 
+05/03/2021 , Horseed S.C , 3 : 0 , Jeenyo  FC 
+08/03/2021 , Raadsan FC , 0 : 0 , Heegan S.C 
+09/03/2021 , Elman FC , 4 : 0 , Geeska Afrika FC 
+10/03/2021 , Dekedda SC , 1 : 2 , Midnimo FC 
+11/03/2021 , Gaadiidka FC , 2 : 2 , Jeenyo  FC 
+12/03/2021 , Mogadishu City Club , 1 : 1 , Horseed S.C 
+15/03/2021 , Heegan S.C , 1 : 1 , Geeska Afrika FC 
+16/03/2021 , Raadsan FC , 1 : 0 , Midnimo FC 
+17/03/2021 , Elman FC , 1 : 2 , Jeenyo  FC 
+18/03/2021 , Dekedda SC , 0 : 2 , Horseed S.C 
+19/03/2021 , Gaadiidka FC , 0 : 1 , Mogadishu City Club 
+17/05/2021 , Heegan S.C , 2 : 1 , Midnimo FC 
+18/05/2021 , Jeenyo  FC , 4 : 2 , Geeska Afrika FC 
+19/05/2021 , Horseed S.C , 0 : 0 , Raadsan FC 
+20/05/2021 , Mogadishu City Club , 2 : 2 , Elman FC 
+21/05/2021 , Gaadiidka FC , 0 : 3 , Dekedda SC 
+24/05/2021 , Heegan S.C , 1 : 1 , Jeenyo  FC 
+25/05/2021 , Horseed S.C , 5 : 2 , Midnimo FC 
+25/05/2021 , Mogadishu City Club , 4 : 0 , Geeska Afrika FC 
+27/05/2021 , Gaadiidka FC , 1 : 1 , Raadsan FC 
+31/05/2021 , Dekedda SC , 1 : 1 , Elman FC 
+01/06/2021 , Horseed S.C , 1 : 1 , Heegan S.C 
+02/06/2021 , Mogadishu City Club , 2 : 1 , Jeenyo  FC 
+03/06/2021 , Gaadiidka FC , 1 : 2 , Midnimo FC 
+04/06/2021 , Dekedda SC , 1 : 2 , Geeska Afrika FC 
+05/06/2021 , Elman FC , 3 : 2 , Raadsan FC 
+06/06/2021 , Heegan S.C , 1 : 0 , Mogadishu City Club 
+07/06/2021 , Gaadiidka FC , 0 : 5 , Horseed S.C 
+08/06/2021 , Dekedda SC , 3 : 1 , Jeenyo  FC 
+09/06/2021 , Elman FC , 0 : 2 , Midnimo FC 
+10/06/2021 , Raadsan FC , 3 : 0 , Geeska Afrika FC 
+27/06/2021 , Gaadiidka FC , 2 : 3 , Heegan S.C 
+28/06/2021 , Dekedda SC , 1 : 1 , Mogadishu City Club 
+29/06/2021 , Horseed S.C , 2 : 0 , Elman FC 
+30/06/2021 , Raadsan FC , 0 : 0 , Jeenyo  FC 
+01/07/2021 , Geeska Afrika FC , 0 : 4 , Midnimo FC 
+02/07/2021 , Heegan S.C , 1 : 5 , Dekedda SC 
+03/07/2021 , Elman FC , 0 : 2 , Gaadiidka FC 
+04/07/2021 , Raadsan FC , 1 : 1 , Mogadishu City Club 
+05/07/2021 , Geeska Afrika FC , 0 : 4 , Horseed S.C 
+06/07/2021 , Midnimo FC , 1 : 0 , Jeenyo  FC 
+07/07/2021 , Elman FC , 1 : 2 , Heegan S.C 
+08/07/2021 , Raadsan FC , 0 : 2 , Dekedda SC 
+09/07/2021 , Geeska Afrika FC , 1 : 8 , Gaadiidka FC 
+10/07/2021 , Midnimo FC , 0 : 2 , Mogadishu City Club 
+11/07/2021 , Jeenyo  FC , 1 : 3 , Horseed S.C 
+12/07/2021 , Heegan S.C , 0 : 1 , Raadsan FC 
+13/07/2021 , Geeska Afrika FC , 0 : 5 , Elman FC 
+14/07/2021 , Midnimo FC , 0 : 0 , Dekedda SC 
+16/07/2021 , Jeenyo  FC , 1 : 2 , Gaadiidka FC 
+16/07/2021 , Horseed S.C , 0 : 0 , Mogadishu City Club 
+17/07/2021 , Geeska Afrika FC , 0 : 13 , Heegan S.C 
+18/07/2021 , Midnimo FC , 0 : 2 , Raadsan FC 
+21/07/2021 , Jeenyo  FC , 2 : 1 , Elman FC 
+22/07/2021 , Horseed S.C , 1 : 0 , Dekedda SC 
+23/07/2021 , Mogadishu City Club , 4 : 2 , Gaadiidka FC 
